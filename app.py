@@ -91,8 +91,7 @@ filtered_df = df[
 ]
 
 st.sidebar.markdown("---")
-st.sidebar.caption("BCA (DS & AI) Final Year Project")
-st.sidebar.caption("Kirti Srivastava | BBD University")
+st.sidebar.caption("Kirti Srivastava")
 
 
 # ════════════════════════════════════════════════════════════
@@ -102,7 +101,6 @@ if page == "🏠 Home":
 
     # st.title creates a large heading
     st.title("🚇 Delhi Metro Network & Ridership Insights")
-    st.markdown("**BCA (DS & AI) Final Year Project | BBD University, Lucknow**")
     st.markdown("---")
 
     # Project description
