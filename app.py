@@ -49,7 +49,7 @@ df = load_data()
 # st.sidebar creates the left panel
 # st.sidebar.radio creates clickable page options
 st.sidebar.image(
-    "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Delhi_Metro_Logo.svg/200px-Delhi_Metro_Logo.svg.png",
+    "images/Delhi_Metro_full_logo.svg.png",
     width = 120
 )
 st.sidebar.title("🚇 Delhi Metro")
